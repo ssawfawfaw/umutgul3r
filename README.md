@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on frontend technologies.
-- 🌱 I’m currently learning React.js and Node.js.
+- 🌱 I’m currently learning React and Node.js.
 
 ### Contact Me:
 
